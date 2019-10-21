@@ -1,0 +1,22 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "AgentWorkDependantPackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "definitionFile": "config/project-scratch-def.json"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "47.0",
+    "packageAliases": {
+        "AgentWorkDependantPackage": "0Ho5K000000001ESAQ",
+        "AgentWorkDependantPackage@0.1.0-1": "04t5K0000000ShyQAE",
+        "AgentWorkDependantPackage@0.1.0-2": "04t5K0000000Si3QAE",
+        "AgentWorkDependantPackage@0.1.0-3": "04t5K0000000Si8QAE",
+        "AgentWorkDependantPackage@0.1.0-4": "04t5K0000000SiDQAU"
+    }
+}
